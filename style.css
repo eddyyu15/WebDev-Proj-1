@@ -1,0 +1,47 @@
+html {
+	background-color: gray;
+
+}
+
+h1 {
+	font-size: 48px;
+	font-family: Helvetica;
+	color: orange;
+}
+
+.calling-card {
+	font-family: Times;
+	font-size: 48px;
+	font-weight: bold;
+	color: green;
+	margin: auto;
+}
+
+.moto {
+	font-style: italic;
+	font-size: 18px;
+	margin: auto;
+}
+
+nav {
+	list-style-type: none;
+	padding: 0;
+
+}
+
+.nav-list {
+	font-weight: bold;
+	font-size: 24px;
+	color: blue;
+	background-color: white;
+	list-style-type: none;
+	float: left;
+	width: 90%;
+	margin: 0 auto;
+
+}
+
+.nav-list > li {
+	float: left;
+	padding: 10px 10px;
+}
